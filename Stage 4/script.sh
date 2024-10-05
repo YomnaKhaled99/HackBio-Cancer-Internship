@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# Activate the new conda environment
+# Activate the conda environment if not activated
 conda activate NGS-Analysis
 
 # Create a new folder for the analysis then one for the samples
