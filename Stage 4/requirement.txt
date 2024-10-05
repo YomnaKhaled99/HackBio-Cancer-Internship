@@ -1,0 +1,8 @@
+# ** TOOls used in the pipeline**
+fastqc
+multiqc
+bbtools
+fastp
+bwa
+samtools 
+freebayes
